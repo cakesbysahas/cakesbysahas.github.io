@@ -540,7 +540,11 @@ a.menu:link {
 
 /*			FONT-FACE	      */
 
-
+@media (max-width: 760px){
+	#cakeImg{
+		display: none;
+	}
+}
 
 @font-face {
 	font-family: 'Comfortaa_Regular';
